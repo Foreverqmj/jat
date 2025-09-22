@@ -11,6 +11,7 @@ public class Main {
         System.out.print(c.divide(d,20,BigDecimal.ROUND_HALF_UP).stripTrailingZeros().toPlainString());
 
 //        you see the massage;
+//        wocaonidem
     }
 
 }

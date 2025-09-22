@@ -9,6 +9,8 @@ public class Main {
         BigDecimal c = new BigDecimal(a);
         BigDecimal d = new BigDecimal(b);
         System.out.print(c.divide(d,20,BigDecimal.ROUND_HALF_UP).stripTrailingZeros().toPlainString());
+
+//        you see the massage;
     }
 
 }
